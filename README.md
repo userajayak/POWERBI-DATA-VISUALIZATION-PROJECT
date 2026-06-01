@@ -1,7 +1,7 @@
 # POWERBI-DATA-VISUALIZATION-PROJECT
 Power BI dashboard analyzing movies and TV shows data to uncover insights on content distribution, IMDb ratings, genres, runtime patterns, and release year trends through interactive visualizations.
 Project Overview
-<img width="1436" height="812" alt="image" src="https://github.com/user-attachments/assets/e5920dfa-22e8-4959-be9d-a2889aa96e93" />
+<img width="1917" height="1008" alt="image" src="https://github.com/user-attachments/assets/74434cc0-0845-4794-90d7-d89a67aeba17" />
 
 This Power BI project analyzes movies and TV shows data to uncover trends in content distribution, IMDb ratings, genre popularity, and release year patterns. The dashboard transforms raw entertainment data into meaningful visual insights through interactive charts and business intelligence techniques.
 
